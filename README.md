@@ -1,5 +1,5 @@
 # 第一次例会
-人工智能学习之Numpy&Matplotlib
+人工智能学习之Numpy&Pandas
 
 [文档地址](https://we-young.feishu.cn/docx/H6MidGiU8ooMUqxY9SGcKMtSnJc)
 
